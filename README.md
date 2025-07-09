@@ -1,4 +1,12 @@
-# 🎮 2D Platformer Adventure Game
+# 🎮 2D Plat## 🎮 Game Demo
+
+![Game Demo](demo.gif)
+
+_Gameplay demonstration of the 2D Platformer Adventure Game_
+
+> **Note**: Upload your `demo.gif` file to this repository to see the demo in action!
+
+## 🎯 Game FeaturesAdventure Game
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
