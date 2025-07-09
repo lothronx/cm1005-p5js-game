@@ -14,9 +14,9 @@ This is my very first programming project, created as part of the CM1005 Introdu
 
 ![Game Demo](demo.gif)
 
-_Welcome screen of the 2D Platformer Adventure Game featuring custom pixel font and retro-style graphics_
+_Gameplay demonstration of the 2D Platformer Adventure Game_
 
-## �🎯 Game Features
+## 🎮 Game Features
 
 - **🏃‍♂️ Character Movement**: Smooth left/right movement with jumping mechanics
 - **🏗️ Dynamic Platforms**: Moving platforms that add challenge to navigation
