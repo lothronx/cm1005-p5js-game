@@ -1,12 +1,4 @@
-# 🎮 2D Plat## 🎮 Game Demo
-
-![Game Demo](demo.gif)
-
-_Gameplay demonstration of the 2D Platformer Adventure Game_
-
-> **Note**: Upload your `demo.gif` file to this repository to see the demo in action!
-
-## 🎯 Game FeaturesAdventure Game
+# 🎮 2D Platformer Adventure Game
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -18,9 +10,9 @@ _Gameplay demonstration of the 2D Platformer Adventure Game_
 
 This is my very first programming project, created as part of the CM1005 Introduction to Programming I course. As a complete beginner to coding, this project represents my journey from knowing nothing about programming to building a fully functional game!
 
-## � Game Demo
+## 🎮 Game Demo
 
-![Game Screenshot](https://github.com/user-attachments/demo.gif)
+![Game Demo](demo.gif)
 
 _Welcome screen of the 2D Platformer Adventure Game featuring custom pixel font and retro-style graphics_
 
